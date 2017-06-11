@@ -1,0 +1,27 @@
+/*This file contains the styling for the excursion landing page index.html */
+html {
+  font-family: Verdana;
+  background-color: black;
+}
+#mainHeadline {
+  font-weight: Normal;
+  font-size: 50px;
+  color: White;
+  text-align: Center;
+}
+#mainVid {
+  text-align: center;
+}
+#campImg {
+  text-align: center;
+}
+.bodyText {
+  font-size: 21px;
+  color: Gray;
+  text-align: center;
+}
+.URL {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
