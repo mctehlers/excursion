@@ -5,20 +5,27 @@ html {
 }
 /*Top of page */
 #mainHeadline {
-  font-weight: Normal;
+  font-weight: normal;
   font-size: 50px;
   color: White;
-  text-align: Center;
+  text-align: center;
 }
 .URL {
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
+  text-decoration: underline;
 }
 /*midpage */
 .bodyText {
   font-size: 21px;
   color: Gray;
+  text-align: center;
+}
+.subHeadline {
+  color: White;
+  font-weight: 300;
+  font-size: 42px;
   text-align: center;
 }
 #mainVid {
