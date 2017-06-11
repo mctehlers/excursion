@@ -15,6 +15,14 @@ html {
 #campImg {
   text-align: center;
 }
+#phone {
+  background-color: black;
+  text-align: center;
+}
+#copyright {
+  text-align: right;
+  color: Gray;
+}
 .bodyText {
   font-size: 21px;
   color: Gray;
